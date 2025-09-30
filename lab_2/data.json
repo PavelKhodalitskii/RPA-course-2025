@@ -1,0 +1,54 @@
+{
+    "items": {
+        "car_001": {
+            "name": "Toyota Camry 2022",
+            "price": 2800000,
+            "amount": 5
+        },
+        "car_002": {
+            "name": "BMW X5 2023",
+            "price": 6500000,
+            "amount": 2
+        },
+        "car_003": {
+            "name": "Lada Vesta 2023",
+            "price": 1200000,
+            "amount": 10
+        },
+        "car_004": {
+            "name": "Mercedes E-Class 2022",
+            "price": 5200000,
+            "amount": 3
+        },
+        "car_005": {
+            "name": "Kia Rio 2023",
+            "price": 1500000,
+            "amount": 7
+        },
+        "car_006": {
+            "name": "Audi Q7 2023",
+            "price": 5800000,
+            "amount": 1
+        },
+        "car_007": {
+            "name": "Hyundai Solaris 2023",
+            "price": 1300000,
+            "amount": 8
+        },
+        "car_008": {
+            "name": "Volkswagen Tiguan 2022",
+            "price": 2500000,
+            "amount": 4
+        },
+        "car_009": {
+            "name": "Skoda Octavia 2023",
+            "price": 1900000,
+            "amount": 6
+        },
+        "car_010": {
+            "name": "Nissan Qashqai 2023",
+            "price": 2200000,
+            "amount": 3
+        }
+    }
+}
