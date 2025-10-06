@@ -6,8 +6,8 @@ if __name__ == "__main__":
     my_mail = "playground01@mail.ru"
 
     # Пароль не скажу!
-    smtp_config = SMTPConfig(server="smtp.mail.ru", username=my_mail, password="8ZQfU1qyMgMqNdAhCgus")
-    imap_config = IMAPConfig(server="imap.mail.ru", username=my_mail, password="8ZQfU1qyMgMqNdAhCgus")
+    smtp_config = SMTPConfig(server="smtp.mail.ru", username=my_mail, password="")
+    imap_config = IMAPConfig(server="imap.mail.ru", username=my_mail, password="")
     mail_processor = MailProcessor(smtp_config=smtp_config, imap_config=imap_config)
 
     message = EmailMessage(
